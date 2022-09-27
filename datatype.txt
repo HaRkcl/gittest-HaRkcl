@@ -9,4 +9,4 @@ long data type
 float data type
 double data type
 
-data type
+data type 1
